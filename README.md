@@ -96,6 +96,8 @@ Note : Build gets failed if pom.xml(Project Object Model) is not present so make
 
 
 ![image](https://user-images.githubusercontent.com/54719289/111887394-be103900-89cc-11eb-931f-8d457c4d8859.png)
+![image](https://user-images.githubusercontent.com/54719289/111887744-04ff2e00-89cf-11eb-9438-3cf0434c9cc1.png)
+
 
 
 # To fix the fatal error of java version, change it into pom.xml
