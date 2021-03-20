@@ -92,7 +92,8 @@ Creating Maven project in spring.io:
 
 		mvn clean install or
 		mvn clean package
-Note : Build gets failed if pom.xml is not present so make sure before running mvn clean command.
+Note : Build gets failed if pom.xml(Project Object Model) is not present so make sure before running mvn clean command.
+
 
 
 
