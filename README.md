@@ -76,3 +76,24 @@ Open new CMD :
 ===========
 
 C:\Users\ganes\Master DEVOPS\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin
+
+
+Creating Maven project in spring.io:
+====================================
+
+![image](https://user-images.githubusercontent.com/54719289/111886270-c795a300-89c4-11eb-8db0-77d06cf6be92.png)
+
+
+![image](https://user-images.githubusercontent.com/54719289/111886125-d6c82100-89c3-11eb-8129-94048dc00f75.png)
+
+
+# To build maven project:
+========================
+
+		mvn clean install or
+		mvn clean package
+Note : Build gets failed if pom.xml is not present so make sure before running mvn clean command.
+
+
+
+
