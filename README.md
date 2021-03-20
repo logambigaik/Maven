@@ -95,6 +95,20 @@ Creating Maven project in spring.io:
 Note : Build gets failed if pom.xml(Project Object Model) is not present so make sure before running mvn clean command.
 
 
+![image](https://user-images.githubusercontent.com/54719289/111887394-be103900-89cc-11eb-931f-8d457c4d8859.png)
+
+
+# To fix the fatal error of java version, change it into pom.xml
+
+Fatal error compiling: invalid target release: 11
+
+![image](https://user-images.githubusercontent.com/54719289/111887714-cec1ae80-89ce-11eb-8b05-41aa1339e7b8.png)
+
+
+
+
+
+
 
 
 
