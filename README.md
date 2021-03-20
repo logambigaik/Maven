@@ -62,8 +62,11 @@ For checking maven version after installation:
 Ennvironment variable setup :
 ===================
 	syetem properties-> environmental variable-> System Variable - Select Path and include Maven bin location
+	
 	C:\Users\ganes\Master DEVOPS\apache-maven-3.6.3-bin\apache-maven-3.6.3\bin or
+	
 	Create new system variable 
+	
 	MAVEN_HOME	C:\Users\ganes\Master DEVOPS\apache-maven-3.6.3-bin\apache-maven-3.6.3
 
 	And include this path
