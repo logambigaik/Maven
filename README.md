@@ -24,7 +24,7 @@ Lifecycle of Maven:
 
 Types of repository in Maven:
 ====================
-	>> Local Repository			=>	.m2 file, downloaded  all the dependancies from central /REmote repository 
+	>> Local Repository			=> .m2 file, downloaded  all the dependancies from central /REmote repository 
 	>> Central Repository			=> in real time, we cant download anything from this repository, retrieves only from remote repository (because of security reason)
 	>> Remote Repository			
 	
