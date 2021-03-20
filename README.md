@@ -1,7 +1,5 @@
-# Maven
-
-Maven:
-====
+# Maven:
+  ======
 
 Build tool
 
